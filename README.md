@@ -1,4 +1,4 @@
-"Sobre Mim" Horsay
+"Sobre Mim" Domenico Horsay
 Primeiro projeto desenvolvido. Foram realizadas as seguintes técnicas para criação do projeto:
 
 
